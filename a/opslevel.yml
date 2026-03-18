@@ -3,7 +3,7 @@ version: 1
 service:
   name: service_a
   lifecycle:
-  tier:
+  tier: tier_3
   product:
   owner: a
   language:
